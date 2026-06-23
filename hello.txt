@@ -3,4 +3,4 @@ Woah, General Grevious!
 test another addition
 
 
-Here's my first test feature.
+Here's my second test feature, replacing the first.
